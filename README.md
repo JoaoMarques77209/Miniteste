@@ -1,1 +1,3 @@
 # Miniteste
+
+Exercises in python
